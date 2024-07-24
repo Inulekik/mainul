@@ -23,7 +23,7 @@ yes | pkg install libjansson wget nano
 mkdir ccminer && cd ccminer
 wget https://raw.githubusercontent.com/Inulekik/mainul/generic/ccminer
 wget https://raw.githubusercontent.com/Inulekik/mainul/main/config.json
-wget https://raw.githubusercontent.com/Inulekik/mainul/generic/start.sh
+wget https://raw.githubusercontent.com/Inulekik/mainul/main/start.sh
 chmod +x ccminer start.sh
 ```
 # Usage:
